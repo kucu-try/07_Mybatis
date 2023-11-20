@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ed6d506-fc8c-4993-9fb2-39639bd35298" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/src/main/java/com/ohgiraffers/config/connection-info.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/src/main/java/com/ohgiraffers/section01/connection/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/src/main/java/com/ohgiraffers/section01/connection/Application02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/src/main/java/com/ohgiraffers/section01/connection/Application03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/src/main/java/com/ohgiraffers/section02/templete/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap01-connection/src/main/java/com/ohgiraffers/section02/templete/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/common/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/config/connection-info.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/Application02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/Application03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/Application04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/Application05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/understand/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/understand/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_jdbc/chap02-statements/src/main/java/com/ohgiraffers/section01/understand/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-config/src/main/java/com/ohgiraffers/section01/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-config/src/main/java/com/ohgiraffers/section01/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-config/src/main/java/com/ohgiraffers/section02/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-config/src/main/resources/mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-config/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_html" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_css" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_javascript" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_javascript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_java/chapter01_linternal-and-variable/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_java/chapter01_linternal-and-variable/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_java/chapter01_linternal-and-variable/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_java/chapter01_linternal-and-variable/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_java/chapter01_linternal-and-variable/chapter01_linternal-and-variable.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2YQQi2WtOX7yT0YjFNtzAjVO4qz" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.Application" />
+      <module name="chap02-scope-lifecycle.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed6d506-fc8c-4993-9fb2-39639bd35298" name="Changes" comment="" />
+      <created>1700455449704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700455449704</updated>
+    </task>
+    <servers />
+  </component>
+</project>
